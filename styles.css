@@ -76,4 +76,20 @@ nav .nav-pills .nav-link:hover{
     border-width: 1px 20px;
    
 }
-
+p{
+	padding: 20px;
+}
+h3{
+	padding: 20px;
+}
+#arri{
+	background-color: green;
+	color: white;
+}
+#med{
+	background-color: lightgreen;
+}
+#foot{
+	margin: 0 8%;
+	background-color: green;
+}
