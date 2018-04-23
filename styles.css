@@ -2,21 +2,26 @@ body{
 	background-color: lightgreen;
 }	
 header .container{
-	height: 100px;
+	height: 150px;
 	margin-top: 0;
 	padding-top: 20px;
 	background-color: green;
 	color: white;
 }
+
 #parte{
 	background-color: white;
 }
 #este{
 	background-color: lightgreen;
 }
-.container h6{
-	right: 50px;
+h5{
+	margin-top: 40px;
 	
+}
+h2{
+	font-style: oblique;
+	font-family: comic sans ms ;
 }
 #imagen img{
 	width: 100%;
