@@ -17,6 +17,11 @@ body{
 .responsive{
 	height: 370px;
 }
-.responsive-img{
-	
+.respon{
+	height: 250px;
+	width: 100%;
+}
+#textarea1{
+	width: 520px;
+	border-radius: 15px;
 }
