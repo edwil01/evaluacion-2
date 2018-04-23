@@ -1,0 +1,97 @@
+
+
+#busqueda{
+	margin-bottom: 1em;
+}
+
+#comentario{
+	margin: 1em 0em;
+}
+
+@media (min-width: 768px) { 
+	article img{
+		max-width: 20rem;
+	}	
+}
+
+@media (max-width: 512px) {
+	#logos{
+		width: 100%;
+	}
+	/*#cabezera .fa-3x{
+		font-size: 2em;
+	}*/
+}
+
+
+
+body{
+    background-color: purple;
+}
+.container #encab{
+	margin-top: 3%;
+	margin-bottom: 0;
+}
+#redes{
+	color: purple;
+	text-align: right;
+
+}
+
+nav{
+	background-color: transparent;
+	margin-bottom: 1rem;	
+    border: solid white;
+    border-width: 0;
+}
+
+nav #uno{
+	border-radius: 3%;
+	border-width: 0 1px 0 0;
+	border-color: white;
+}
+
+nav .nav-pills .nav-link {
+	border-radius: 0%;
+    color: white;
+    
+}
+
+nav .nav-pills .nav-link:hover{
+	color: black;	
+    border-width: 1px 20px;
+   
+}
+
+section article{
+	color: black;
+	border-width: 0 0 0 5px; 
+	background: transparent;
+	padding: 1em;
+	border-radius: 0 .25rem .25rem 0;
+}
+
+#lista-button a{	
+	border-color: #111111;
+	background-color: #E31937;
+	color: white;
+}
+
+#lista-button a:hover{	
+	border-color: #111111;
+	background-color: #cf1732;
+}
+
+#busqueda button{
+	border-color: lightblue;	
+	color: black;
+	
+}
+
+#busqueda button:hover{
+	background-color: blue;
+	color: white;
+}
+input{
+	margin-top: 5%;
+
