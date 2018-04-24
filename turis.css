@@ -8,8 +8,8 @@ body{
 	margin-top: 20px;
 	
 }
-.#titu{
-	
+#titu{
+	margin: -10px;
 }
 #redes{
 	margin-bottom: 40px;
@@ -19,9 +19,15 @@ body{
 }
 .respon{
 	height: 250px;
-	width: 100%;
+	
 }
 #textarea1{
-	width: 520px;
+	
 	border-radius: 15px;
+}
+h3{
+	margin: 70px 0 0 0;
+	font-family: helvatica;
+	font-style: oblique;
+
 }
